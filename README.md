@@ -18,7 +18,7 @@ For example, when a packet arrives at the socket during RX, it calls UDP functio
 if you read this again in BIO_nternal (SSL_read),  the decoded plain text data is contained.
 In the case of TX, the reverse is performed.
 
-add your image
+![dtls bio pair](github_dtls.png)
 
 ## Build & Usage
 
